@@ -1,0 +1,246 @@
+/* Universal stuff*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+
+@media only screen and (min-width: 400px) and (max-width: 610px) {
+    
+    .nav1container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .sec1-2 {
+        display: flex;
+        flex-direction: column;
+     }
+
+}
+
+
+li a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blueviolet;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.nav1 {
+    height: 3%;
+}
+
+.nav1container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.homebtn {
+    font-size: 30px;
+}
+
+.mebtn {
+    font-size: 30px;
+}
+
+.probtn {
+    font-size: 30px;
+}
+
+li {
+    list-style-type: none;
+}
+
+
+/* Universal stuff*/
+
+/* index stuff*/
+.index-body {
+    background-color: orange;
+    font-family:'roboto';
+}
+
+.index-header {
+   background-color: white;
+   border-radius: 15px;
+   padding: 3rem;
+   border: 3px solid black;
+}
+
+.index-intro {
+    text-align: center;
+}
+
+.indexmain {
+    margin-top: 50px;
+}
+
+.sec1-2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.index-section {
+    width: 500px;
+    padding: 3rem;
+    margin-top: 10px;
+    border: 3px solid black;
+    border-radius: 15px;
+}
+
+.sectionimage {
+    width: 500px;
+    padding: 3rem;
+    margin-top: 10px;
+    border: 3px solid black;
+    border-radius: 15px;
+}
+
+.image {
+    width: 400px;
+    padding-left: 45px;
+    padding-right: 45px;
+    border-radius: 50%;
+}
+
+.indexfooter { 
+    display: flex;
+    justify-content: space-around;
+}
+
+/* index stuff*/
+
+/* me stuff*/ 
+
+.Me-body {
+    background-color: orange;
+    font-family:'roboto';
+}
+
+.Me-header {
+    background-color: white;
+    border-radius: 15px;
+    padding: 3rem;
+    border: 3px solid black;
+
+}
+
+.Me-intro {
+    text-align: center;
+}
+
+.section1 {
+    text-align: center;
+}
+
+.loveandhate {
+    display: flex;
+    justify-content: space-around;
+}
+
+.hate {
+    height: 3%;
+    background-color: brown;
+    border-radius: 5px;
+    border: 3px solid black;
+    padding: 15px;
+    padding-right: 25px;
+    margin-left: 15px;
+}
+
+.love {
+    height: 3%;
+    background-color: rgb(42, 165, 65);
+    border-radius: 5px;
+    border: 3px solid black;
+    padding: 15px;
+    padding-right: 25px;
+    margin-right: 15px;
+}
+
+.morethanmeetstheeye{
+    text-align: center;
+}
+
+/* me stuff*/ 
+
+/*butt stuff*/
+
+.pro-body {
+    background-color: orange;
+    font-family:'roboto'; 
+}
+ 
+.pro-header {
+    background-color: white;
+    border-radius: 15px;
+    padding: 3rem;
+    border: 3px solid black;
+}
+
+.pro-intro {
+    text-align: center;
+}
+
+.education {
+    text-align: center;
+}
+.myedtext {
+    padding-left: 50px;
+}
+
+.main-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Left-Section {
+    background-color:white;
+    margin-left: 150px;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.Expertise {
+
+    /*manipulate this*/
+
+}
+
+.Tools {
+     /*manipulate this*/
+}
+
+.Languages {
+     /*manipulate this*/
+}
+
+
+
+.main-section {
+    width: 60%;
+    background-color: gray;
+    opacity: 70%;
+    margin-right: 100px;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.fictive {
+    /*manipulate this*/
+}
+
+.neoludos {
+    /*manipulate this*/
+}
+
+
+.areachica {
+    /*manipulate this*/
+}
+
+
