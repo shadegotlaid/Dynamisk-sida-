@@ -1,0 +1,59 @@
+{
+        "MyEducation":[
+            "CHAS UXF",
+            "CME IMMERSIVE",
+            "CME UX design"
+        ],
+        "EXPERTISE":[
+            "User research & testing",
+            "Prototyping & wireframing",
+            "Game design & gamification",
+            "Illustration & graphicdesign",
+            "Video production & VR video",
+            "Marketting & advertisement",
+            "Copywriting & content creation"
+        ],
+        "TOOLS": [
+            "Figma",
+            "Filmora",
+            "Autodesk sketchbook",
+            "Photoshop",
+            "Illustrator",
+            "Miro"
+        ],
+        "LANGUAGES":[
+            "English",
+            "Persian",
+            "Swedish",
+            "German"
+        ],
+        "UXdesigner":[
+            "UX designer/content creator"
+        ],
+        "Fictivereality":[
+            "Fictivereality", 
+            "Modernised and simplified UX/UI design.",
+            "Tested and prototyped solutions for optimal results.",
+            "Content creation for social media and creating effective marketing strategies.",
+            "Video editing and Graphic design for promotions.",
+            "Working agile with programmers. testers and stakeholders."
+        ],
+        "GraphicDesigner":[
+            "Graphic designer"
+        ], 
+        "Neoludos" :[
+            "Neoludos",
+            "I created the logo based on the company's profession, showcasing their capabilities with my design."
+        ],
+        "UXUIgraphicDesigner" : [
+            "UX/UI & graphic designer"
+        ],
+        "areachica":[
+            "Areachica",
+            "User research & interviews to gather data on user needs resulting in relevant solutions.",
+            "User testing, low fidelity to high fidelity prototyping were done.",
+            "Gamification elements Included, giving users incentive to complete profiles.",
+            "Designed and animated a mascot, to ease the onboarding process.",
+            "Simplified buttons for to the menus and overviews for better experience."
+        ]
+}
